@@ -32,7 +32,7 @@ I'm **Raul Cristian Oghinciuc** — a 19-year-old software developer, server man
 - Maintained infrastructure with Linux & Docker  
 - Got recognition from the Lead Production Manager and CEO in short time
 
-#### 🕸️ Reptilian Games Website  
+#### 🕸️ Personal Website  
 - Designed + maintained the frontend and backend [raul.oghinciuc.ro](https://raul.oghinciuc.ro)  
 - Used: HTML/CSS, JavaScript, Python (Flask)
 
