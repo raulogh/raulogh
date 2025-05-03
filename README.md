@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Raul Cristian Oghinciuc** — a 19-year-old software developer, server manager, software developer and game developer. I build efficient, clean solutions to real-world problems and make broken systems behave like well-trained dogs.
+I'm **Raul** — a 19-year-old software developer, server manager, software developer and game developer. I build efficient, clean solutions to real-world problems and make broken systems behave like well-trained dogs.
 
 ---
 
@@ -9,8 +9,6 @@ I'm **Raul Cristian Oghinciuc** — a 19-year-old software developer, server man
 📍 Târgu Mureș, Romania  
 🎓 Social Science @ Theoretical High School "Gheorghe Marinescu"  
 🧠 Fluent in English, Romanian  
-📬 [raul@oghinciuc.ro](mailto://raul@oghinciuc.ro)
-🌐 [raul.oghinciuc.ro](https://raul.oghinciuc.ro)
 
 ---
 
@@ -33,14 +31,12 @@ I'm **Raul Cristian Oghinciuc** — a 19-year-old software developer, server man
 - Got recognition from the Lead Production Manager and CEO in short time
 
 #### 🕸️ Personal Website  
-- Designed + maintained the frontend and backend [raul.oghinciuc.ro](https://raul.oghinciuc.ro)  
+- Designed + maintained the frontend and backend
 - Used: HTML/CSS, JavaScript, Python (Flask)
 
 #### 💼 RustyByte Portfolio  
 - My personal website and portfolio  
 - Projects, case studies
-- [raul.oghinciuc.ro](https://raul.oghinciuc.ro)
-
 ---
 
 ### 🛠️ Tools I Actually Use
@@ -62,7 +58,5 @@ I'm **Raul Cristian Oghinciuc** — a 19-year-old software developer, server man
 
 ### 📬 Contact Me
 
-- Email: [raul@oghinciuc.ro](mailto://raul@oghinciuc.ro)
-- Location: Târgu Mureș, Romania
-- Portfolio: [raul.oghinciuc.ro](https://raul.oghinciuc.ro)  
+- Email: [hypergdd@gmail.com](mailto://hypergdd@gmail.com) 
 - Open to freelance gigs, server work, and game dev collabs.
