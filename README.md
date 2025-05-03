@@ -6,8 +6,8 @@ I'm **Raul** — a 19-year-old software developer, server manager, software deve
 
 ### 👨‍💻 About Me
 
-📍 Târgu Mureș, Romania  
-🎓 Social Science @ Theoretical High School "Gheorghe Marinescu"  
+📍  Romania  
+🎓 Social Science @ High School
 🧠 Fluent in English, Romanian  
 
 ---
